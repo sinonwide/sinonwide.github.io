@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+MAIN PAGE
 
-You can use the [editor on GitHub](https://github.com/sinonwide/sinonwide.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Jimmy Neutron's Science Shop</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<style>
 
-### Markdown
+h3 {color: rgb(255, 142, 148);}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+body {background-color: rgb(198, 201, 255);}
 
-```markdown
-Syntax highlighted code block
+#main-title {color: rgb(255, 142, 148);}
 
-# Header 1
-## Header 2
-### Header 3
+#main-subtitle {color: rgb(255, 142, 148)}
 
-- Bulleted
-- List
+.pros-list {color: green}
 
-1. Numbered
-2. List
+.cons-list {color: red}
 
-**Bold** and _Italic_ and `Code` text
+</style>
 
-[Link](url) and ![Image](src)
-```
+</head>
+<span style="font-family:Century Gothic"><body>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h1 id="main-title">Jimmy Neutron's Science Shop</h1>
 
-### Jekyll Themes
+<h2 id="main-subtitle">Where none of our products are <em>overpriced</em> or <em>useless!</em>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sinonwide/sinonwide.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h3>Jimmy Neutron's Top Products</h2>
 
-### Support or Contact
+<ol>
+<li>Glow-in-the-dark Masculine Undergarments - $69.69</li>
+<li>Glow-in-the-dark Feminine Undergarments - $69.69</li>
+<li>Jimmy Neutron's Radiating Bedsheets - $420</li>
+</ol>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a target="_blank" href="file:///C:/Users/thecr/OneDrive/Documents/Html/Store.html">Check out the full store for all of Jimmy's cool products!</a>
+
+<h3>Background Info on Jimmy</h3>
+
+<p>Jimmy Neutron is a menace to society who loves doing his weird science experiments. He is one of the country's <strong>leading</strong> scientists in miscellaneous products and theories.</p>
+
+<p>These are some of Jimmy Neutron's most superior findings</p>
+<ul>
+<li>How to fuse radiation to cotton wool and nylon</li>
+<li>How moderate radiation helps people sleep</li>
+<li>How constant exposure to neon and argon improves the urinary system</li>
+</ul>
+
+<p>Here are some pictures of our notorious scoundrel:</p>
+<img src="JimmyNeutron.png" alt="Jimmy Neutron" width=100>
+<img src="DumbJimmyNeutron.jpg" alt="Dumb Jimmy Neutron" width=200>
+<img src="WeirdJimmyNeutron.png" alt="Weird Jimmy Neutron" width=125><br>
+
+<a target="_blank" href="https://jimmyneutron.fandom.com/wiki/Jimmy_Neutron">See more on Jimmy Neutron!</a>
+
+<h3>Why Jimmy Neutron's Science Shop?<h3>
+
+<h4 class="pros-list">Pros</h4>
+<ul class="pros-list">
+<li>Great prices!</li>
+<li>Delicious food!</li>
+<li>Huge buttocks!</li>
+<li>Why not?!</li>
+<li>This list makes sense!</li>
+<li>The cons list totally isn't falsely advertised!</li>
+</ul>
+
+<h4 class="cons-list">Cons</h4>
+<ul class="cons-list">
+<li>There are none! Isn't that great?</li>
+</ul>
+
+<h3>Locations</h3>
+
+<p>Downtown Coolsville<br>
+Neutron Road<br>
+Next to the Hot Ladies Night Club<br>
+Next to the Sperm Bank on Main Street</p>
+
+</body></span>
+</html>
